@@ -1,2 +1,1 @@
-# myProject
-its my first project
+# theese projects is my first little projects.
